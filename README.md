@@ -1,3 +1,4 @@
+# [Depricated]
 ## Running React on Repl.it
 
 ## [checkout the app here](https://nft-starter-project.mihirlaldas.repl.co/)
